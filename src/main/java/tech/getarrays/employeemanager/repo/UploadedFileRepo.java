@@ -1,5 +1,8 @@
 package tech.getarrays.employeemanager.repo;
 
+/*
+ * Zeynep Delal Mutlu
+ */
 import org.springframework.data.jpa.repository.JpaRepository;
 import tech.getarrays.employeemanager.model.UploadedFile;
 
